@@ -1,0 +1,28 @@
+.heading{
+    text-align:center;
+  font-family: 'Shadows Into Light', cursive;
+  }
+  
+  .pic{
+  height:15rem;
+  }
+  
+  .content-part{
+    display:flex;
+    
+  }
+  .details{
+    padding:10px;
+  }
+  .content-part{
+    display:flex;
+    justify-content: space-around;
+  }
+  
+  .button{
+    display:flex;
+    justify-content: space-around;
+  }
+  
+  
+  
